@@ -9,10 +9,10 @@ I am a product and service designer based in London. I design how people work wi
 
 ## Projects
 - **[Signal](https://github.com/Kris0320/signal-app)** — an event discovery app for London. It collects public events from universities and research institutions and updates the data twice a day with GitHub Actions. [Live demo](https://signal-app-blush.vercel.app)
-- **[Portfolio](https://qihangwu-portfolio.vercel.app)** — case studies and interactive prototypes, including a clickable rebuild of a banking AI assistant I designed. The source stays private because it includes client work.
+- **[Portfolio](https://qihangwu-portfolio.vercel.app/en)** — case studies and interactive prototypes, including a clickable rebuild of a banking AI assistant I designed. The source stays private because it includes client work.
 
 ## Background
 MA Service Design, Royal College of Art. More than five years of UX and UI work on enterprise cloud platforms and financial services at Huawei Cloud and China Merchants Bank, as a vendor designer embedded in those teams.
 
 ## Contact
-[Portfolio](https://qihangwu-portfolio.vercel.app) · [LinkedIn](https://www.linkedin.com/in/qihang-wu-b83b77385)
+[Portfolio](https://qihangwu-portfolio.vercel.app/en) · [LinkedIn](https://www.linkedin.com/in/qihang-wu-b83b77385)
